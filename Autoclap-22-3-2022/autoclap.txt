@@ -1,0 +1,11 @@
+source_dir_base	Y:\STEREO\FOLDER01\
+source_dir	Y:\STEREO\FOLDER01\*.wav
+source_dir	Y:\STEREO\FOLDER01\*.mp3
+dest_dir_base	R:\ZoomH1\
+dest_dir	R:\ZoomH1\*.wav
+dest_dir	R:\ZoomH1\*.mp3
+type txt
+type xyz
+type mp3
+type wav
+# #
